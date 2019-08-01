@@ -1,2 +1,2 @@
 # learngit
-my firstproject, just for learning, don't follow me!
+my firstproject, just for learning, don't watch me!
